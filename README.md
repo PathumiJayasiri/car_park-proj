@@ -107,14 +107,14 @@ If full → Gate remains closed → LCD displays “Parking Full”.
 🖼 Technical Diagrams
 
 Concept Design
+![Concept Design](images/Picture1.png)
+<img width="551" height="673" alt="Picture1" src="https://github.com/user-attachments/assets/66cbab98-a1b1-4926-8b0f-a91dabbdcda3" />
+
 
 Simulation Diagram (Proteus)
+![Simulation](images/Picture2.png)
+<img width="800" height="450" alt="Picture2" src="https://github.com/user-attachments/assets/6b61dd17-be91-4786-9355-4f76582b94f5" />
 
-PCB Design (EasyEDA)
-
-Physical Implementation
-
-(Diagrams should be added to an images/ folder and referenced here, e.g. ![Concept Design](images/concept_design.png))
 
 ⚙️ Hardware Selection
 
